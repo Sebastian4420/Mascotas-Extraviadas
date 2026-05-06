@@ -12,7 +12,7 @@ Sistema web desarrollado para que los usuarios puedan registrar a sus mascotas o
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 ### Objetivo General
 Desarrollar un sistema con enfoque **"Mobile First"** permitiendo la localización de mascotas extraviadas y el registro de animales en estado de abandono mediante una interfaz intuitiva y accesible.
@@ -26,7 +26,7 @@ Desarrollar un sistema con enfoque **"Mobile First"** permitiendo la localizaci�
 
 ---
 
-## 🎨 Diseño UI/UX - Figma
+## Diseño UI/UX - Figma
 
 ### Wireframe (Estructura base)
 
@@ -53,6 +53,9 @@ Desarrollar un sistema con enfoque **"Mobile First"** permitiendo la localizaci�
 | 💻 Desktop | [Ver Prototype Desktop](https://www.figma.com/proto/mesa9xAhgH9Y9NsejX0aby/Mascotas-Extraviados---Mockup?node-id=20-2&t=bPz1WJlG4xoyDdLW-1) |
 
 ---
+### Pagina web
+**Link de Acceso: ** https://petsos-proyecto.netlify.app
+---
 
 ## Herraminetas Utilizadas
 
@@ -64,5 +67,6 @@ Desarrollar un sistema con enfoque **"Mobile First"** permitiendo la localizaci�
 | **Publicación** | GitHub Pages / Netlify |
 
 ---
+##Pagina Web 
 
 
