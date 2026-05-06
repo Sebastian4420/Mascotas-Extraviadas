@@ -114,5 +114,21 @@ Este es el núcleo funcional del proyecto. Permite a los usuarios interactuar di
 | PetSOS (Landing Page) | Netlify | ✅ Activo | Mayo 2026 |
 | Sistema de Formularios | Netlify | ✅ Activo | Mayo 2026 |
 
+## Equipo y Roles SCRUM
+
+**Suarez Melva** – Scrum Master  
+Organización, sprints, cronograma, coordinación
+
+**Calapaqui Victor** – UI/UX Designer  
+Diseño Figma (Mobile/Tablet/Desktop)
+
+**Carlosama Joshua** – Frontend Developer  
+Landing page, responsive, estilos
+
+**Tanicuchi Sandy** – Frontend + JS  
+Formularios, validaciones, alertas
+
+**Tobar Sebastian** – GitHub / Deploy  
+Repositorio, despliegue Netlify, documentación
 
 
