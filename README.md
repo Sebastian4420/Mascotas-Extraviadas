@@ -53,10 +53,6 @@ Desarrollar un sistema con enfoque **"Mobile First"** permitiendo la localizaci�
 | 💻 Desktop | [Ver Prototype Desktop](https://www.figma.com/proto/mesa9xAhgH9Y9NsejX0aby/Mascotas-Extraviados---Mockup?node-id=20-2&t=bPz1WJlG4xoyDdLW-1) |
 
 ---
-### Pagina web
-**Link de Acceso: ** https://petsos-proyecto.netlify.app
----
-
 ## Herraminetas Utilizadas
 
 | Categoría | Herramientas |
