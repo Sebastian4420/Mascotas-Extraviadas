@@ -19,8 +19,8 @@ Desarrollar un sistema con enfoque **"Mobile First"** permitiendo la localizaci�
 ## Herraminetas utilizadas
 
 
-**Diseño**  Figma 
-**Desarrollo**  Visual Studio Code, HTML5, CSS3, JavaScript 
-**Control de versiones**  GitHub 
+**Diseño**  Figma  
+**Desarrollo**  Visual Studio Code, HTML5, CSS3, JavaScript  
+**Control de versiones**  GitHub   
 **Publicación**  GitHub Pages 
 
