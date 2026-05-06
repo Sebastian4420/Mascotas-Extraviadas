@@ -67,7 +67,7 @@ Desarrollar un sistema con enfoque **"Mobile First"** permitiendo la localizaci�
 
 A continuación, se presentan los dos componentes principales del proyecto, ambos completamente funcionales y desplegados en la web.
 
-### 🌐 Acceso Rápido
+### 🌐 Acceso Web y Formulario de registro
 
 | Componente | Enlace | Descripción |
 |------------|--------|-------------|
