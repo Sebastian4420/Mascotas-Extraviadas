@@ -1,13 +1,8 @@
 # 🐾 Mascotas Extraviadas - Sistema Web de Gestión y Monitoreo
 
-![Status](https://img.shields.io/badge/estado-en%20desarrollo-brightgreen)
-![Version](https://img.shields.io/badge/versión-1.0-blue)
-![Scrum](https://img.shields.io/badge/metodología-Scrum-orange)
-![Mobile First](https://img.shields.io/badge/enfoque-Mobile%20First-purple)
 
----
 
-## 📋 Descripción del Proyecto
+##  Descripción del Proyecto
 
 **Nombre del proyecto:** Sistema web de gestión y monitoreo de mascotas extraviadas
 
