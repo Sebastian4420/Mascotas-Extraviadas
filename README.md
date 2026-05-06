@@ -67,6 +67,63 @@ Desarrollar un sistema con enfoque **"Mobile First"** permitiendo la localizaci�
 | **Publicación** | GitHub Pages / Netlify |
 
 ---
-##Pagina Web 
+## 🚀 Sitios Web Desplegados
+
+A continuación, se presentan los dos componentes principales del proyecto, ambos completamente funcionales y desplegados en la web.
+
+### 🌐 Acceso Rápido
+
+| Componente | Enlace | Descripción |
+|------------|--------|-------------|
+| **Página Web Oficial (Landing Page)** | [petsos-proyecto.netlify.app](https://petsos-proyecto.netlify.app) | Sitio principal con información del proyecto, servicios, galería y llamado a la acción. |
+| **Sistema de Formularios** | [formulariosmascotasextraviadas.netlify.app](https://formulariosmascotasextraviadas.netlify.app) | Plataforma funcional para registro de usuarios, mascotas y reporte de animales encontrados. |
+
+---
+
+## 🖥️ Descripción de los Sitios
+
+### 1. Página Web Oficial – PetSOS
+**URL:** [https://petsos-proyecto.netlify.app](https://petsos-proyecto.netlify.app)
+
+Este es el sitio de presentación del proyecto. Su objetivo es informar a los usuarios sobre la solución y motivarlos a utilizar la plataforma.
+
+**Características principales:**
+- **Sobre Nosotros:** Explica la misión del equipo y el origen del proyecto.
+- **Servicios:** Detalla las funcionalidades clave como collar inteligente, localización en tiempo real y comunidad.
+- **Llamada a la acción (CTA):** Invita a los usuarios a descargar la app “PetSOS”.
+- **Galería:** Muestra imágenes ilustrativas del sistema en funcionamiento.
+- **Secciones:** Mascotas, Mapa, Alertas y Comunidad.
+
+### 2. Sistema de Formularios – Gestión de Mascotas
+**URL:** [https://formulariosmascotasextraviadas.netlify.app](https://formulariosmascotasextraviadas.netlify.app)
+
+Este es el núcleo funcional del proyecto. Permite a los usuarios interactuar directamente con el sistema de gestión de mascotas extraviadas.
+
+**Formularios disponibles:**
+1.  **Registro de Usuario:** Captura datos personales y aceptación de términos.
+2.  **Registrar Mascota:** Para dueños que desean registrar a su mascota extraviada (incluye especie: perro, gato u otro).
+3.  **Mascota Encontrada:** Permite a cualquier persona reportar el hallazgo de un animal, ingresando sus datos y los de la mascota.
+
+---
+
+##Capturas de Pantalla (Ejemplo)
+
+> **Instrucción:** Reemplaza las rutas `ruta/a/tu/` con las rutas reales donde guardes tus imágenes en el repositorio.
+
+### Página Web PetSOS
+![Vista previa de la página PetSOS]()
+
+### Sistema de Formularios
+![Vista previa del formulario de registro]()
+
+---
+
+## Estado del Despliegue
+
+| Sitio | Plataforma | Estado | Última actualización |
+|-------|------------|--------|----------------------|
+| PetSOS (Landing Page) | Netlify | ✅ Activo | Marzo 2026 |
+| Sistema de Formularios | Netlify | ✅ Activo | Marzo 2026 |
+
 
 
