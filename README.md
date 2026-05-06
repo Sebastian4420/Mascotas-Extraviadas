@@ -6,7 +6,7 @@
 
 **Nombre del proyecto:** Sistema web de gestión y monitoreo de mascotas extraviadas
 
-**Grupo:** [Inserte nombre del grupo]
+**Grupo: 5** 
 
 Sistema web desarrollado para que los usuarios puedan registrar a sus mascotas o reportar en caso de encontrar alguna extraviada. La plataforma permite reportar, notificar, detectar o conocer la ubicación de una mascota perdida, así como acceder a información para realizar procesos de adopción.
 
@@ -54,7 +54,7 @@ Desarrollar un sistema con enfoque **"Mobile First"** permitiendo la localizaci�
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Herraminetas Utilizadas
 
 | Categoría | Herramientas |
 |-----------|--------------|
@@ -65,4 +65,4 @@ Desarrollar un sistema con enfoque **"Mobile First"** permitiendo la localizaci�
 
 ---
 
-## 📁 Estructura del Sitio Web
+
