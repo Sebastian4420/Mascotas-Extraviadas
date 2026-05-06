@@ -24,3 +24,28 @@ Desarrollar un sistema con enfoque **"Mobile First"** permitiendo la localizaci�
 **Control de versiones**  GitHub   
 **Publicación**  GitHub Pages 
 
+
+## 🧭 Secciones del Sitio
+
+| # | Sección | Descripción |
+|---|---------|-------------|
+| 1 | Inicio | Presentación del proyecto |
+| 2 | Registrar mascota | Formulario para registrar una mascota y generar QR |
+| 3 | Reportar encontrada | Reportar una mascota encontrada |
+| 4 | Mascotas perdidas | Listado de mascotas extraviadas |
+| 5 | Adopción | Proceso de adopción de mascotas |
+| 6 | Nosotros | Información del equipo |
+| 7 | Contacto | Formulario de contacto |
+
+## 👥 Equipo de Trabajo y Roles
+
+| Integrante | Rol | Responsabilidades |
+|------------|-----|-------------------|
+| **Suarez Melva** | Scrum Master / Organización / Sprint Planning | Organizar al grupo, definir sprints, crear cronograma, repartir tareas, redactar objetivos, coordinar entregas |
+| **Calapaqui Victor** | Diseño UI/UX | Diseñar interfaz en Figma, versión Mobile First, wireframes de todas las secciones |
+| **Carlosama Joshua** | Frontend Developer | Crear página principal, menú navegación, secciones informativas, responsive design |
+| **Tanicuchi Sandy** | Frontend + Formularios + JavaScript | Formularios interactivos, validaciones, botones dinámicos, alertas |
+| **Tobar Sebastian** | GitHub / Deploy / Documentación | Crear repositorio, subir archivos, organizar ramas, publicar en GitHub Pages |
+
+
+
