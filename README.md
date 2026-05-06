@@ -99,9 +99,6 @@ Este es el núcleo funcional del proyecto. Permite a los usuarios interactuar di
 3.  **Mascota Encontrada:** Permite a cualquier persona reportar el hallazgo de un animal, ingresando sus datos y los de la mascota.
 
 ---
-
-##Capturas de Pantalla (Ejemplo)
-
 ### Página Web PetSOS
 ![Vista previa de la página PetSOS](https://github.com/Sebastian4420/Mascotas-Extraviadas/blob/main/DI-petsos-proyecto-G5.png)
 
