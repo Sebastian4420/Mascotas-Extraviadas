@@ -107,7 +107,7 @@ Este es el núcleo funcional del proyecto. Permite a los usuarios interactuar di
 > **Instrucción:** Reemplaza las rutas `ruta/a/tu/` con las rutas reales donde guardes tus imágenes en el repositorio.
 
 ### Página Web PetSOS
-![Vista previa de la página PetSOS]()
+![Vista previa de la página PetSOS](https://github.com/Sebastian4420/Mascotas-Extraviadas/blob/main/DI-petsos-proyecto-G5.png)
 
 ### Sistema de Formularios
 ![Vista previa del formulario de registro]()
