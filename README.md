@@ -1,18 +1,14 @@
 ﻿# 🐾 Sistema Web de Gestión y Monitoreo de Mascotas Extraviadas
 
-![Status](https://img.shields.io/badge/estado-en%20desarrollo-brightgreen)
-![Version](https://img.shields.io/badge/versión-1.0-blue)
-![Scrum](https://img.shields.io/badge/metodología-Scrum-orange)
-
-## 📋 Descripción del Proyecto
+## Descripción del Proyecto
 
 Sistema web desarrollado para que los usuarios puedan registrar a sus mascotas o reportar en caso de encontrar alguna extraviada. La plataforma permite reportar, notificar, detectar o conocer la ubicación de una mascota perdida, así como acceder a información para realizar procesos de adopción.
 
-## 🎯 Objetivo General
+## Objetivo General
 
 Desarrollar un sistema con enfoque **"Mobile First"** permitiendo la localización de mascotas extraviadas y el registro de animales en estado de abandono mediante una interfaz intuitiva y accesible.
 
-## 📌 Objetivos Específicos
+## Objetivos Específicos
 
 - Diseñar una interfaz interactiva utilizando Figma, NinjaMock y Netlify
 - Implementar formularios interactivos para registro de usuarios, mascotas y reportes
@@ -20,13 +16,11 @@ Desarrollar un sistema con enfoque **"Mobile First"** permitiendo la localizaci�
 - Publicar el proyecto en GitHub
 - Aplicar metodología Scrum (Sprint 0 y Sprint 1)
 
-## 🛠️ Tecnologías Utilizadas
+## Herraminetas utilizadas
 
-| Categoría | Herramientas |
-|-----------|--------------|
-| **Diseño** | Figma |
-| **Desarrollo** | Visual Studio Code, HTML5, CSS3, JavaScript |
-| **Control de versiones** | GitHub |
-| **Publicación** | GitHub Pages |
 
-## 📁 Estructura del Sitio Web
+**Diseño**  Figma 
+**Desarrollo**  Visual Studio Code, HTML5, CSS3, JavaScript 
+**Control de versiones**  GitHub 
+**Publicación**  GitHub Pages 
+
