@@ -81,8 +81,6 @@ A continuación, se presentan los dos componentes principales del proyecto, ambo
 ### 1. Página Web Oficial – PetSOS
 **URL:** [https://petsos-proyecto.netlify.app](https://petsos-proyecto.netlify.app)
 
-Este es el sitio de presentación del proyecto. Su objetivo es informar a los usuarios sobre la solución y motivarlos a utilizar la plataforma.
-
 **Características principales:**
 - **Sobre Nosotros:** Explica la misión del equipo y el origen del proyecto.
 - **Servicios:** Detalla las funcionalidades clave como collar inteligente, localización en tiempo real y comunidad.
@@ -104,13 +102,11 @@ Este es el núcleo funcional del proyecto. Permite a los usuarios interactuar di
 
 ##Capturas de Pantalla (Ejemplo)
 
-> **Instrucción:** Reemplaza las rutas `ruta/a/tu/` con las rutas reales donde guardes tus imágenes en el repositorio.
-
 ### Página Web PetSOS
 ![Vista previa de la página PetSOS](https://github.com/Sebastian4420/Mascotas-Extraviadas/blob/main/DI-petsos-proyecto-G5.png)
 
 ### Sistema de Formularios
-![Vista previa del formulario de registro]()
+![Vista previa del formulario de registro](https://github.com/Sebastian4420/Mascotas-Extraviadas/blob/main/formulariosmascotasextraviadas.png)
 
 ---
 
@@ -118,8 +114,8 @@ Este es el núcleo funcional del proyecto. Permite a los usuarios interactuar di
 
 | Sitio | Plataforma | Estado | Última actualización |
 |-------|------------|--------|----------------------|
-| PetSOS (Landing Page) | Netlify | ✅ Activo | Marzo 2026 |
-| Sistema de Formularios | Netlify | ✅ Activo | Marzo 2026 |
+| PetSOS (Landing Page) | Netlify | ✅ Activo | Mayo 2026 |
+| Sistema de Formularios | Netlify | ✅ Activo | Mayo 2026 |
 
 
 
