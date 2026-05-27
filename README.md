@@ -71,7 +71,7 @@ A continuación, se presentan los dos componentes principales del proyecto, ambo
 
 | Componente | Enlace | Descripción |
 |------------|--------|-------------|
-| **Página Web Oficial (Landing Page)** | [petsos-proyecto.netlify.app]([https://petsos-proyecto.netlify.app](https://petsosec.netlify.app/)) | Sitio principal con información del proyecto, servicios, galería y llamado a la acción. |
+| **Página Web Oficial (Landing Page)** | [petsos-proyecto.netlify.app](https://petsosec.netlify.app/) | Sitio principal con información del proyecto, servicios, galería y llamado a la acción. |
 | **Sistema de Formularios** | [formulariosmascotasextraviadas.netlify.app](https://formulariosmascotasextraviadas.netlify.app) | Plataforma funcional para registro de usuarios, mascotas y reporte de animales encontrados. |
 
 ---
