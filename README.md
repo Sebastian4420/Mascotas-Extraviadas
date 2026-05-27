@@ -71,7 +71,7 @@ A continuación, se presentan los dos componentes principales del proyecto, ambo
 
 | Componente | Enlace | Descripción |
 |------------|--------|-------------|
-| **Página Web Oficial (Landing Page)** | [petsos-proyecto.netlify.app](https://petsos-proyecto.netlify.app) | Sitio principal con información del proyecto, servicios, galería y llamado a la acción. |
+| **Página Web Oficial (Landing Page)** | [petsos-proyecto.netlify.app]([https://petsos-proyecto.netlify.app](https://petsosec.netlify.app/)) | Sitio principal con información del proyecto, servicios, galería y llamado a la acción. |
 | **Sistema de Formularios** | [formulariosmascotasextraviadas.netlify.app](https://formulariosmascotasextraviadas.netlify.app) | Plataforma funcional para registro de usuarios, mascotas y reporte de animales encontrados. |
 
 ---
@@ -79,7 +79,7 @@ A continuación, se presentan los dos componentes principales del proyecto, ambo
 ## 🖥️ Descripción de los Sitios
 
 ### 1. Página Web Oficial – PetSOS
-**URL:** [https://petsos-proyecto.netlify.app](https://petsos-proyecto.netlify.app)
+**URL:** [https://petsos-proyecto.netlify.app]([https://petsos-proyecto.netlify.app](https://petsosec.netlify.app/))
 
 **Características principales:**
 - **Sobre Nosotros:** Explica la misión del equipo y el origen del proyecto.
@@ -100,7 +100,7 @@ Este es el núcleo funcional del proyecto. Permite a los usuarios interactuar di
 
 ---
 ### Página Web PetSOS
-![Vista previa de la página PetSOS](https://github.com/Sebastian4420/Mascotas-Extraviadas/blob/main/DI-petsos-proyecto-G5.png)
+![Vista previa de la página PetSOS](https://github.com/Sebastian4420/Mascotas-Extraviadas/blob/main/screencapture-petsosec-netlify-app-2026-05-26-23_59_43.png)
 
 ### Sistema de Formularios
 ![Vista previa del formulario de registro](https://github.com/Sebastian4420/Mascotas-Extraviadas/blob/main/formulariosmascotasextraviadas.png)
